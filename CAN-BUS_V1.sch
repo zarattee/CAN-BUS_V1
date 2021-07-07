@@ -730,9 +730,9 @@ Text Label 900  2000 2    50   ~ 0
 IO3
 Text Label 900  1900 2    50   ~ 0
 IO2
-Text Label 900  1800 2    50   ~ 0
+Text Label 500  1700 2    50   ~ 0
 IO1
-Text Label 900  1700 2    50   ~ 0
+Text Label 500  1600 2    50   ~ 0
 IO0
 Wire Wire Line
 	5500 4200 5600 4200
@@ -813,9 +813,7 @@ Wire Wire Line
 	4100 4300 4550 4300
 Wire Wire Line
 	4100 5100 4550 5100
-Text Label 900  3000 2    50   ~ 0
-IO13
-Text Label 900  2900 2    50   ~ 0
+Text Label 350  2950 2    50   ~ 0
 IO12
 Text Label 900  2800 2    50   ~ 0
 IO11
@@ -1492,4 +1490,14 @@ Text Label 10200 5550 0    50   ~ 0
 EN
 Text Label 10250 6250 0    50   ~ 0
 IO0
+Text Label 900  1700 2    50   ~ 0
+M1B
+Text Label 900  1800 2    50   ~ 0
+M1A
+Text Label 900  2900 2    50   ~ 0
+M2B
+Text Label 1800 3300 2    50   ~ 0
+M2A
+Text Label 900  3000 2    50   ~ 0
+IO13
 $EndSCHEMATC
